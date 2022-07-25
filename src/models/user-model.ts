@@ -1,7 +1,5 @@
 import PostgreSQL from '../databases/postgresql'
 
-class UserModel {
-
-}
+class UserModel {}
 
 export default UserModel

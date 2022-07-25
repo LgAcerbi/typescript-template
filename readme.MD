@@ -1,12 +1,12 @@
 # TypeScript Template
 
-### Description
+## 📖 Description
 Template project for starting TypeScript REST API's
 
-### Technologies
+## 🚀 Technologies
 - TypeScript
 - Express
 - Log4js
 
-### Contributors
+## 😎 Contributors
 - Luiz Guilherme dos Santos Acerbi

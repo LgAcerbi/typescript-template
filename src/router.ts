@@ -1,12 +1,10 @@
-import express from "express";
+import express from 'express'
 
 import UserController from './controllers/user-ctrl'
-import ErrorHandler from "./helpers/error-handler";
-import RequestLogger from "./helpers/request-logger";
+import ErrorHandler from './helpers/error-handler'
+import RequestLogger from './helpers/request-logger'
 
-const controllers = [
-    UserController
-]
+const controllers = [UserController]
 
 const Router = express.Router()
 
