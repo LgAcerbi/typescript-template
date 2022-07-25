@@ -4,7 +4,13 @@
 Template project for starting TypeScript REST API's
 
 ## 🚀 How to use
+1. Install dependencies
 
+    `npm i`
+
+2. Run project:
+
+    `npm run start`
 
 ## 💻 Technologies
 - TypeScript
