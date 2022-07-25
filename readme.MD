@@ -3,7 +3,10 @@
 ## 📖 Description
 Template project for starting TypeScript REST API's
 
-## 🚀 Technologies
+## 🚀 How to use
+
+
+## 💻 Technologies
 - TypeScript
 - Express
 - Log4js
